@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidPub.Web", "VidPub.Web\VidPub.Web.csproj", "{7CCDABAC-CCC5-4CD0-AE70-B15DE36BB71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidPub.Tests", "VidPub.Tests\VidPub.Tests.csproj", "{CF2C3267-8BC4-4A67-9D8C-F090EEBDC7A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidPub.Tasks", "VidPub.Tasks\VidPub.Tasks.csproj", "{59319321-0B9E-4C83-BF8C-AD1F7F73A981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59319321-0B9E-4C83-BF8C-AD1F7F73A981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59319321-0B9E-4C83-BF8C-AD1F7F73A981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59319321-0B9E-4C83-BF8C-AD1F7F73A981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59319321-0B9E-4C83-BF8C-AD1F7F73A981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCDABAC-CCC5-4CD0-AE70-B15DE36BB71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCDABAC-CCC5-4CD0-AE70-B15DE36BB71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCDABAC-CCC5-4CD0-AE70-B15DE36BB71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCDABAC-CCC5-4CD0-AE70-B15DE36BB71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2C3267-8BC4-4A67-9D8C-F090EEBDC7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2C3267-8BC4-4A67-9D8C-F090EEBDC7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2C3267-8BC4-4A67-9D8C-F090EEBDC7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2C3267-8BC4-4A67-9D8C-F090EEBDC7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

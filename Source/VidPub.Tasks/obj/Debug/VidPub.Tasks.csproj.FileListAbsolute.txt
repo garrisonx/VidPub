@@ -1,0 +1,6 @@
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tasks\bin\Debug\VidPub.Tasks.exe.config
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tasks\bin\Debug\VidPub.Tasks.exe
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tasks\bin\Debug\VidPub.Tasks.pdb
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tasks\obj\Debug\VidPub.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tasks\obj\Debug\VidPub.Tasks.exe
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tasks\obj\Debug\VidPub.Tasks.pdb

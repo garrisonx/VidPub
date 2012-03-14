@@ -1,0 +1,11 @@
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\VidPub.Tests.dll.config
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\VidPub.Tests.dll
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\VidPub.Tests.pdb
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\VidPub.Web.dll
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\EntityFramework.dll
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\VidPub.Web.pdb
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\bin\Debug\EntityFramework.xml
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\obj\Debug\VidPub.Tests.csprojResolveAssemblyReference.cache
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\obj\Debug\VidPub.Tests.dll
+C:\Users\carlos.bolanos\Documents\Visual Studio 11\Projects\VidPub\Source\VidPub.Tests\obj\Debug\VidPub.Tests.pdb
